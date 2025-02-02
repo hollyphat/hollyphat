@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** specializing in **L
 - **Other:** CapacitorJS, WebSockets, Push Notifications
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](#) (https://linkedin.in/hollyfat)
-- 🐦 [Twitter](#) (https://x.com/hollyphat)
-- 🌐 [Portfolio](#) (https://onlinemedia.com.ng)
+- 🔗 [LinkedIn](https://linkedin.in/hollyfat)
+- 🐦 [Twitter](https://x.com/hollyphat)
+- 🌐 [Portfolio](https://onlinemedia.com.ng)
 
 💡 Always learning, building, and optimizing! Feel free to explore my repos and contribute. Let's build something great together! 🚀
